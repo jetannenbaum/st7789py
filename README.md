@@ -1,4 +1,4 @@
-This work is bassed on the work by Russ Hughes
+This work is based on the work by Russ Hughes
 
 I modified his MicroPython driver for the st7789 to include both a circle and fill_circle method
 
